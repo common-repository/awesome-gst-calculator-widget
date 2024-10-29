@@ -1,0 +1,47 @@
+.wpgst-form select, .wpgst-form input[type="text"]{
+	width:100%;
+	border:1px solid;
+	line-height: 1 !important;
+	padding: 9px;
+}
+
+.wpgst-form .currency {
+    background: #000;
+    color: #fff;
+    position: absolute;
+    height: 99%;
+    vertical-align: -webkit-baseline-middle;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    margin: 0;
+	top: 49%;
+    left: 0px;
+    font-size: 16px;
+    padding: 9px 13px;
+    border-radius: 4px;
+}
+.wpgst-col-5 {
+	width: 49%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    margin-top: 10px;
+}
+.wpgst-form-group {
+    width: 100%;
+    display: block;
+    float: left;
+}
+.wpgst-form-group.button-form-group {
+    display: table;
+}
+button.wpgst-btn {
+    margin: 34px auto;
+    display: block;
+    /* margin-top: 24px; */
+    height: 45px;
+    line-height: 0px;
+}
+.padding-left {
+    padding-left: 68px !important;
+}
